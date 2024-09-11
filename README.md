@@ -1,6 +1,6 @@
 # Análise Exploratória de Dados do Dataset "Global Salaries for Data Science"
 ## Descrição do Dataset
-O dataset "Global Salaries for Data Science" contém informações sobre os salários globais de profissionais da área de ciência de dados. As principais colunas incluem o cargo exercido, o nível de experiência, o salário anual e o país de trabalho. Este dataset fornece uma visão abrangente das variações salariais em diferentes regiões e para diferentes níveis de experiência na ciência de dados.
+O dataset "[Global Salaries for Data Science](https://www.kaggle.com/datasets/lainguyn123/data-science-salary-landscape)" contém informações sobre os salários globais de profissionais da área de ciência de dados. As principais colunas incluem o cargo exercido, o nível de experiência, o salário anual e o país de trabalho. Este dataset fornece uma visão abrangente das variações salariais em diferentes regiões e para diferentes níveis de experiência na ciência de dados.
 
 ## Objetivos da Análise
 Os principais objetivos desta análise são:
